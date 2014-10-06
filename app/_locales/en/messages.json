@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Test objectsby",
+    "message": "Call methods of objects and inspect their return value. If function returns a promise, watch when/if that promise resolves.",
     "description": "The description of the application"
   }
 }
